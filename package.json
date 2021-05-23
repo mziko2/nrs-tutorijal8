@@ -1,0 +1,27 @@
+{
+    "name": "nrs",
+    "version": "1.0.0",
+    "description": "vjezba6",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "author": "",
+    "license": "ISC",
+    "homepage": "",
+    "dependencies": {
+        "chai": "^4.3.4",
+        "chai-http": "^4.3.0",
+        "csvjson": "^5.1.0",
+        "express": "^4.17.1",
+        "mocha": "^8.4.0",
+        "mysql": "^2.18.1",
+        "mysql2": "^2.2.5",
+        "path": "^0.12.7",
+        "sequelize": "^6.6.2"
+    }
+}
